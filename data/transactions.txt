@@ -1,0 +1,17 @@
+Account: Checking
+INCOME,2500.00,Monthly Salary,1701604800
+EXPENSE,-75.50,Groceries,1701691200
+EXPENSE,-45.20,Uber Ride,1701777600
+INCOME,500.00,Freelance Work,1701864000
+EXPENSE,-120.75,Restaurant Dinner,1701950400
+---
+Account: Savings
+INCOME,5000.00,Year-end Bonus,1701604800
+EXPENSE,-1500.00,Emergency Fund Deposit,1701691200
+INCOME,200.00,Interest Earnings,1701777600
+---
+Account: Credit Card
+EXPENSE,-350.00,Electronics Purchase,1701864000
+EXPENSE,-75.50,Streaming Subscriptions,1701950400
+EXPENSE,-200.00,Online Shopping,1702036800
+---
